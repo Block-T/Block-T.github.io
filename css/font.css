@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'CustomFont';
+    src:  url('./Minecraft.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap
+}
+
+* {
+    font-family: 'CustomFont', sans-serif !important
+}
